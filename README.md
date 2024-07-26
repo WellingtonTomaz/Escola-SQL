@@ -5,4 +5,4 @@ No projeto apresentado, foi criado um banco de dados relacional para o gerenciam
 
 O arquivo consultas contem todas as consultas que foram realizadas dentro do banco de dados
 
-Tambme possui o arquivo Schema do Banco de dados
+Tambem possui o arquivo Schema do Banco de dados
